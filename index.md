@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, inicial-scale=1.0">
-  <title>Hecho por Dominic Scott, Julio Bolaños, Mauricio Chin</title>
+  <title> Hecho por Dominic Scott, Julio Bolaños, Mauricio Chin</title>
 </head>
 <body>
   <h1>Becas al Extrangero</h1>
