@@ -2,7 +2,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, inicial-scale=1.0">
-  <tittle>Proyecto scholar, Dominic Scott, Julio Bolaños, Alejandro Chin</tittle>
 </head>
 <body>
   <h1>Becas al Extrangero</h1>
