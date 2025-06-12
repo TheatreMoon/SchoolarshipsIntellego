@@ -1,0 +1,5 @@
+//anchor tag
+<a href="#home_section">home</a>
+<section id="home_section">Information About Page</section>
+
+dont forgor
