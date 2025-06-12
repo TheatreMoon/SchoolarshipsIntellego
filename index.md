@@ -20,16 +20,16 @@
 <p> <b>Requisitos para aplicar</b> </p>
 <ul>
 <li>Ser ciudadano/a guatemalteco y residir actualmente en Guatemala.</li>
-Ser graduado/a de una licenciatura o maestría. Los solicitantes que aún no se han graduado (“Pensum cerrado”) no son elegibles.</br> 
-Tener un promedio general de puntos (GPA) de al menos 85/100 en el sistema guatemalteco o clasificado en el primer 15% de su clase, lo cual debe ser confirmado por documentos emitidos por la universidad.</br>
-Contar con un nivel avanzado de inglés, tanto hablado como escrito. Se debe proporcionar la puntuación TOEFL reciente si es posible. En julio de 2025 los candidatos seleccionados deben estar preparados para tomar el examen TOEFL y lograr como mínimo un resultado intermedio.</br>
-Tener al menos 2 años de experiencia laboral a tiempo completo (al menos 30 horas a la semana) en un campo relacionado con sus estudios.</br>
-Demostrar habilidades de liderazgo y capacidad de adaptación, y ser altamente motivados.</br>
-Estar comprometido/a con el desarrollo de su comunidad a través del servicio comunitario, el voluntariado u otras actividades.</br>
-Los candidatos con poca o ninguna experiencia previa en EE.UU. tendrán prioridad.</br>
-Ser elegible para una visa J-1.</br>
-Comprometerse a regresar a Guatemala por al menos 2 años consecutivos después de terminar sus estudios en EE.UU. y basarse en sus conocimientos en su campo profesional.</br>
-Estar preparado/a para tomar el examen GRE en julio de 2025. Los candidatos que no puedan obtener un resultado competitivo arriesgan su admisión a una universidad en Estados Unidos. </p>
+<li>Ser graduado/a de una licenciatura o maestría. Los solicitantes que aún no se han graduado (“Pensum cerrado”) no son elegibles.</li>
+<li>Tener un promedio general de puntos (GPA) de al menos 85/100 en el sistema guatemalteco o clasificado en el primer 15% de su clase, lo cual debe ser confirmado por documentos emitidos por la universidad.</li>
+<li>Contar con un nivel avanzado de inglés, tanto hablado como escrito. Se debe proporcionar la puntuación TOEFL reciente si es posible. En julio de 2025 los candidatos seleccionados deben estar preparados para tomar el examen TOEFL y lograr como mínimo un resultado intermedio.</li>
+<li>Tener al menos 2 años de experiencia laboral a tiempo completo (al menos 30 horas a la semana) en un campo relacionado con sus estudios.</li>
+<li>Demostrar habilidades de liderazgo y capacidad de adaptación, y ser altamente motivados.</li>
+<li>Estar comprometido/a con el desarrollo de su comunidad a través del servicio comunitario, el voluntariado u otras actividades.</li>
+<li>Los candidatos con poca o ninguna experiencia previa en EE.UU. tendrán prioridad.</li>
+<li>Ser elegible para una visa J-1.</li>
+<li> Comprometerse a regresar a Guatemala por al menos 2 años consecutivos después de terminar sus estudios en EE.UU. y basarse en sus conocimientos en su campo profesional.</li>
+<li> Estar preparado/a para tomar el examen GRE en julio de 2025. Los candidatos que no puedan obtener un resultado competitivo arriesgan su admisión a una universidad en Estados Unidos. </li>
 </ul>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
