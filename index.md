@@ -19,7 +19,7 @@
 
 <p> <b>Requisitos para aplicar</b> </p>
 <ul>
-<li>Ser ciudadano/a guatemalteco y residir actualmente en Guatemala.</li> </br> 
+<li>Ser ciudadano/a guatemalteco y residir actualmente en Guatemala.</li>
 Ser graduado/a de una licenciatura o maestría. Los solicitantes que aún no se han graduado (“Pensum cerrado”) no son elegibles.</br> 
 Tener un promedio general de puntos (GPA) de al menos 85/100 en el sistema guatemalteco o clasificado en el primer 15% de su clase, lo cual debe ser confirmado por documentos emitidos por la universidad.</br>
 Contar con un nivel avanzado de inglés, tanto hablado como escrito. Se debe proporcionar la puntuación TOEFL reciente si es posible. En julio de 2025 los candidatos seleccionados deben estar preparados para tomar el examen TOEFL y lograr como mínimo un resultado intermedio.</br>
