@@ -1,5 +1,4 @@
 theme: architect
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Proyectos JDC
 description: Grupo escolar facilitando información.
 author: Dominic Scott, Julio Bolaños, Mauricio Chin
