@@ -7,7 +7,9 @@
 <body>
   <h1>Becas al Extranjero</h1>
   <h4><i>Hecho por Dominic Scott, Julio Bolaños, Mauricio Chin</i></h4>
-  <p>  </p>
+ 
+<p>Este programa, lanzado por el Gobierno de Guatemala en marzo de 2025, a través del Fondo Nacional de Becas, tiene como objetivo apoyar a estudiantes guatemaltecos en sus estudios universitarios o técnicos, dentro o fuera del país. Las becas pueden ser totales o parciales, y están disponibles para estudiantes de primer ingreso y reingreso.  </p>
+
 
 <p>
 <a href="https://www.guatemala.com/noticias/sociedad/fechas-para-aplicar-a-becas-en-el-extranjero-2025-para-guatemaltecos.html#:~:text=La%20Beca%20Fulbright%202026%20es,o%20doctorado%20en%20Estados%20Unidos." target="_blank">Hace click para ver las fechas de aplicacion.</a> </p>
