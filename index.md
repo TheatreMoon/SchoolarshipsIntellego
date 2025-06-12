@@ -13,7 +13,7 @@
 <a href="https://www.guatemala.com/noticias/sociedad/fechas-para-aplicar-a-becas-en-el-extranjero-2025-para-guatemaltecos.html#:~:text=La%20Beca%20Fulbright%202026%20es,o%20doctorado%20en%20Estados%20Unidos." target="_blank">Hace click para ver las fechas de aplicacion.</a> </p>
 
 "La Beca Fulbright Foreign Student está dirigida a estudiantes graduados, jóvenes profesionales y artistas extranjeros que deseen obtener una maestría o doctorado en Estados Unidos."  Opciones de becas disponibles para los guatemaltecos que desean continuar sus estudios universitarios en el extranjero. La Beca Fulbright 2026 es completa, por lo que cubre los gastos del examen TOEFL, visa, viaje, alojamiento, tasas universitarias y un plan médico de emergencia llamado ASPE (por sus siglas en inglés). También se otorga un estipendio mensual para cubrir costos de vida del becario, como alimentación, transporte, materiales académicos y otros gastos personales; y además, recibirá fondos para el seguro médico universitario.
-
+<p> </p>
 <p> <a href="https://www.guatemala.com/noticias/sociedad/beca-fulbright-2026-guatemaltecos-podran-estudiar-maestrias-o-doctorados-en-estados-unidos.html?utm_source=guatemala.com&utm_campaign=crosslinking&utm_medium=widget" target="_blank">Hace click para más información.</a>
 </p>
 
