@@ -7,7 +7,10 @@
 <body>
   <h1>Becas al Extranjero</h1>
   <h4><i>Hecho por Dominic Scott, Julio Bolaños, Mauricio Chin</i></h4>
- 
+
+  
+  <p><b>Becas por Nuestro Futuro</b></p>
+  
 <p>Este programa, lanzado por el Gobierno de Guatemala en marzo de 2025, a través del Fondo Nacional de Becas, tiene como objetivo apoyar a estudiantes guatemaltecos en sus estudios universitarios o técnicos, dentro o fuera del país. Las becas pueden ser totales o parciales, y están disponibles para estudiantes de primer ingreso y reingreso.  </p>
 
 
