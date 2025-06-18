@@ -11,13 +11,18 @@
   <p>El objetivo principal de esta pagina web es brindar apoyo y orientación a jóvenes que deseen acceder a becas en universidades en el
 extranjero o aquí en Guatemala. </p> 
 
-<p><b>Requisitos generales:</b></p>
+<p><a href="#home_section">Requisitos generales</a></p>
+<p><a href="#app_section">Proceso de aplicación</a></p>
+<p><a href="#fut_section">Becas por Nuestro Futuro</a></p>
+<p><a href="#bri_section">Beca fulbright</a></p>
+
+<section id="home_section"><b>Requisitos generales:</b></section>
 <ul>
 <li>Ser guatemalteco/a y residir en el país.</li>
 <li>Presentar certificación de notas.</li>
 <li>Redactar un breve ensayo sobre los retos y logros durante los estudios.</li>
 </ul>
-<p><b>Proceso de aplicación:</b></p>
+<section id="app_section"><b>Proceso de aplicación:</b></section>
 <ul>
 <li>La primera convocatoria estuvo abierta del 1 de abril al 31 de mayo de 2025.</li>
 <li>Para más información y futuras convocatorias, se puede visitar el sitio oficial: becasnuestrofuturo.gob.gt.</li>
@@ -25,11 +30,11 @@ extranjero o aquí en Guatemala. </p>
 </ul>
 
 
-  <p><b>Becas por Nuestro Futuro</b></p>
+ <section id="fut_section"><b>Becas por Nuestro Futuro</b></section>
   
 <p>Este programa, lanzado por el Gobierno de Guatemala en marzo de 2025, a través del Fondo Nacional de Becas, tiene como objetivo apoyar a estudiantes guatemaltecos en sus estudios universitarios o técnicos, dentro o fuera del país. Las becas pueden ser totales o parciales, y están disponibles para estudiantes de primer ingreso y reingreso.  </p>
 
-<p><b>Beca fulbright</b></p>
+ <section id="bri_section"><b>Beca fulbright</b></section>
 <p>
 <a href="https://www.guatemala.com/noticias/sociedad/fechas-para-aplicar-a-becas-en-el-extranjero-2025-para-guatemaltecos.html#:~:text=La%20Beca%20Fulbright%202026%20es,o%20doctorado%20en%20Estados%20Unidos." target="_blank">Hace click para ver las fechas de aplicacion.</a> </p>
 
