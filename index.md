@@ -8,12 +8,22 @@
   <h1>Becas al Extranjero</h1>
   <h4><i>Hecho por Dominic Scott, Julio Bolaños, Mauricio Chin</i></h4>
 
-  <b>El objetivo principal es brindar apoyo y orientación a jóvenes que deseen acceder a becas en universidades en el
-extranjero. Mediante el desarrollo de una página web informativa, se debe proporcionar una guía integral y accesible
-sobre el proceso de solicitud de becas. Se desea ayudar a los usuarios a navegar por los diversos requisitos y
-opciones disponibles, brindándoles la información necesaria para que puedan tomar decisiones informadas y
-maximizar sus oportunidades de éxito. Los recursos presentados deben ser confiables y valiosos en la búsqueda de
-becas internacionales.</b> 
+  <b>El objetivo principal de esta pagina web es brindar apoyo y orientación a jóvenes que deseen acceder a becas en universidades en el
+extranjero o aquí en Guatemala. </b> 
+<p><b>Requisitos generales:</b></p>
+• Ser guatemalteco/a y residir en el país.
+• Presentar certificación de notas.
+• Redactar un breve ensayo sobre los retos y logros durante los
+estudios.
+<p><b>Proceso de aplicación:</b></p>
+• La primera convocatoria estuvo abierta del 1 de abril al 31 de
+mayo de 2025.
+• Para más información y futuras convocatorias, se puede visitar el
+sitio oficial: becasnuestrofuturo.gob.gt.
+• También se puede solicitar asesoría vía WhatsApp al número:
+https://wa.me/50230190234.
+
+
   <p><b>Becas por Nuestro Futuro</b></p>
   
 <p>Este programa, lanzado por el Gobierno de Guatemala en marzo de 2025, a través del Fondo Nacional de Becas, tiene como objetivo apoyar a estudiantes guatemaltecos en sus estudios universitarios o técnicos, dentro o fuera del país. Las becas pueden ser totales o parciales, y están disponibles para estudiantes de primer ingreso y reingreso.  </p>
