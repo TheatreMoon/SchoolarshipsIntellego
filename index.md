@@ -8,7 +8,12 @@
   <h1>Becas al Extranjero</h1>
   <h4><i>Hecho por Dominic Scott, Julio Bolaños, Mauricio Chin</i></h4>
 
-  
+  <b>El objetivo principal es brindar apoyo y orientación a jóvenes que deseen acceder a becas en universidades en el
+extranjero. Mediante el desarrollo de una página web informativa, se debe proporcionar una guía integral y accesible
+sobre el proceso de solicitud de becas. Se desea ayudar a los usuarios a navegar por los diversos requisitos y
+opciones disponibles, brindándoles la información necesaria para que puedan tomar decisiones informadas y
+maximizar sus oportunidades de éxito. Los recursos presentados deben ser confiables y valiosos en la búsqueda de
+becas internacionales.</b> 
   <p><b>Becas por Nuestro Futuro</b></p>
   
 <p>Este programa, lanzado por el Gobierno de Guatemala en marzo de 2025, a través del Fondo Nacional de Becas, tiene como objetivo apoyar a estudiantes guatemaltecos en sus estudios universitarios o técnicos, dentro o fuera del país. Las becas pueden ser totales o parciales, y están disponibles para estudiantes de primer ingreso y reingreso.  </p>
