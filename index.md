@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -212,7 +212,8 @@
   </div>
 
   <div class="myDiv">
-    <form action="action_page.php">
+  <h3 style="color: white; margin-bottom: 20px;">Contáctanos para más información</h3>
+  <form action="action_page.php">
       <label for="fname">Nombre</label>
       <input type="text" id="fname" name="firstname" placeholder="Tu nombre">
 
