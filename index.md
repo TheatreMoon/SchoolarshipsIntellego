@@ -2,7 +2,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <section id="top_section">
   <title>Becas al Extranjero</title>
+  </section>
   <style>
     body {
       margin: 0;
@@ -158,9 +160,7 @@
   </div>
 
   <div class="main-content">
-  <section id="top_section">
     <h4>Hecho por Dominic Scott, Julio Bolaños, Mauricio Chin</h4>
-    </section>
     <p>El objetivo principal de esta página web es brindar apoyo y orientación a jóvenes que deseen acceder a becas en universidades en el extranjero o aquí en Guatemala.</p>
 
     <section id="home_section">
