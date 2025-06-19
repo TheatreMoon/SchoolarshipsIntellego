@@ -58,5 +58,27 @@ extranjero o aquí en Guatemala. </p>
 <li> Estar preparado/a para tomar el examen GRE en julio de 2025. Los candidatos que no puedan obtener un resultado competitivo arriesgan su admisión a una universidad en Estados Unidos. </li>
 </ul>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<div class="container">
+  <form action="action_page.php">
+
+    <label for="fname">Nombre</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Apellido</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="country">Pais</label>
+    <select id="country" name="country">
+      <option value="Guatemala">Australia</option>
+      <option value="Mexico">Canada</option>
+      <option value="Estados Unidos">USA</option>
+    </select>
+
+    <label for="subject">Mensaje</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+
+  </form>
+</div>
 </body>
