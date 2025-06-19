@@ -230,10 +230,10 @@
     <h3>Contáctanos para más información</h3>
     <form onsubmit="scrollToTop(event)">
       <label for="fname">Nombre</label>
-      <input type="text" id="fname" name="firstname" placeholder="Tu nombre">
+      <input type="text" id="fname" name="firstname" placeholder="Tu nombre...">
 
       <label for="lname">Apellido</label>
-      <input type="text" id="lname" name="lastname" placeholder="Tu apellido..">
+      <input type="text" id="lname" name="lastname" placeholder="Tu apellido...">
 
       <label for="country">País</label>
       <select id="country" name="country">
