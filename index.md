@@ -61,23 +61,23 @@ extranjero o aquí en Guatemala. </p>
 <div class="container">
   <form action="action_page.php">
 
-    <label for="fname">Nombre</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+    <p><label for="fname">Nombre</label>
+    <input type="text" id="fname" name="firstname" placeholder="Tu nombre"></p>
 
-    <label for="lname">Apellido</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+    <p><label for="lname">Apellido</label>
+    <input type="text" id="lname" name="lastname" placeholder="Tu apellido.."></p>
 
-    <label for="country">Pais</label>
+    <p><label for="country">Pais</label>
     <select id="country" name="country">
-      <option value="Guatemala">Australia</option>
-      <option value="Mexico">Canada</option>
-      <option value="Estados Unidos">USA</option>
-    </select>
+      <option value="Guatemala">Guatemala</option>
+      <option value="Mexico">Mexico</option>
+      <option value="Estados Unidos">Estados Unidos</option>
+    </select></p>
 
-    <label for="subject">Mensaje</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+    <p><label for="subject">Mensaje</label>
+    <textarea id="subject" name="subject" placeholder="Escribe tu mensaje..." style="height:200px"></textarea></p>
 
-    <input type="submit" value="Submit">
+    <p><input type="Entregar" value="Entregar"></p>
 
   </form>
 </div>
