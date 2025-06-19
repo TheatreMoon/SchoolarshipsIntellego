@@ -3,3 +3,8 @@
 <section id="home_section">Information About Page</section>
 
 dont forgor
+
+<div id="text">
+            <div id="menu">Portfolio &nbsp;|&nbsp; About us</div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+</div>
