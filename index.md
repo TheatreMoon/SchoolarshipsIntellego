@@ -165,7 +165,6 @@
 
   <div class="header-container">
     <h1 style="color:white;">Becas al Extranjero</h1>
-    <p>Grupo escolar facilitando información.</p>
     <div id="menu">
       <a href="#home_section">Requisitos generales</a> |
       <a href="#app_section">Proceso de aplicación</a> |
