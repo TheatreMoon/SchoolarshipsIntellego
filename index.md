@@ -164,7 +164,7 @@
   <div id="thankYouMsg">¡Gracias! Tu formulario ha sido enviado.</div>
 
   <div class="header-container">
-    <h1>Becas al Extranjero</h1>
+    <h1 style="color:white;">Becas al Extranjero</h1>
     <p>Grupo escolar facilitando información.</p>
     <div id="menu">
       <a href="#home_section">Requisitos generales</a> |
