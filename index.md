@@ -212,7 +212,7 @@
 
   <div class="myDiv">
   <h3 style="color: white; margin-bottom: 20px;">Contáctanos para más información</h3>
-  <form action="action_page.php">
+  <form action="(https://theatremoon.github.io/ProyectosJDC)">
     
       <label for="fname">Nombre</label>
       <input type="text" id="fname" name="firstname" placeholder="Tu nombre">
