@@ -6,9 +6,42 @@
 </head>
 <body>
 
-  <div id="text">
-            <div id="menu"><a href="#home_section">Requisitos generales</a> &nbsp;|&nbsp; <a href="#app_section">Proceso de aplicación</a> &nbsp;|&nbsp; <a href="#fut_section">Becas por Nuestro Futuro</a> &nbsp;|&nbsp; <a href="#bri_section">Beca fulbright</a> </div>
+  <style>
+#text {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+#menu {
+  background-color: rgba(53, 127, 209, 1);
+  padding: 10px 20px;
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  box-shadow: 0 4px 0 #2c6cb8; /* Beveled bottom edge */
+  border-radius: 0 0 6px 6px;   /* Optional: soften bottom corners */
+  display: inline-block;
+}
+#menu a {
+  color: white;
+  text-decoration: none;
+}
+#menu a:hover {
+  text-decoration: underline;
+}
+</style>
+
+<div id="text"> 
+  <div id="menu">
+    <a href="#home_section">Requisitos generales</a> &nbsp;|&nbsp; 
+    <a href="#app_section">Proceso de aplicación</a> &nbsp;|&nbsp; 
+    <a href="#fut_section">Becas por Nuestro Futuro</a> &nbsp;|&nbsp; 
+    <a href="#bri_section">Beca fulbright</a>
+  </div>
 </div>
+
 
   <h1>Becas al Extranjero</h1>
   <h4><i>Hecho por Dominic Scott, Julio Bolaños, Mauricio Chin</i></h4>
@@ -62,34 +95,68 @@ extranjero o aquí en Guatemala. </p>
 .myDiv {
   background-color: rgba(53, 127, 209, 1);
   text-align: center;
-  padding: 20px;
-  border: 3px solid #2c6cb8; 
-  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2); 
-  border-radius: 4px; 
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+
+.myDiv form {
+  background-color: white; 
+  padding: 30px;
+  border-radius: 8px;
+  display: inline-block;
+  text-align: left;
+}
+
+
+.myDiv input[type="text"],
+.myDiv select,
+.myDiv textarea {
+  width: 100%;
+  padding: 8px;
+  margin-top: 4px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.myDiv input[type="submit"],
+.myDiv input[type="Entregar"] {
+  background-color: #357fd1;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.myDiv input[type="submit"]:hover,
+.myDiv input[type="Entregar"]:hover {
+  background-color: #2c6cb8;
 }
 </style>
 
 <div class="myDiv">
   <form action="action_page.php">
+    <label for="fname">Nombre</label>
+    <input type="text" id="fname" name="firstname" placeholder="Tu nombre">
 
-    <p><label for="fname">Nombre</label>
-    <input type="text" id="fname" name="firstname" placeholder="Tu nombre"></p>
+    <label for="lname">Apellido</label>
+    <input type="text" id="lname" name="lastname" placeholder="Tu apellido..">
 
-    <p><label for="lname">Apellido</label>
-    <input type="text" id="lname" name="lastname" placeholder="Tu apellido.."></p>
-
-    <p><label for="country">Pais</label>
+    <label for="country">País</label>
     <select id="country" name="country">
       <option value="Guatemala">Guatemala</option>
-      <option value="Mexico">Mexico</option>
+      <option value="Mexico">México</option>
       <option value="Estados Unidos">Estados Unidos</option>
-    </select></p>
+    </select>
 
-    <p><label for="subject">Mensaje</label>
-    <textarea id="subject" name="subject" placeholder="Escribe tu mensaje..." style="height:200px"></textarea></p>
+    <label for="subject">Mensaje</label>
+    <textarea id="subject" name="subject" placeholder="Escribe tu mensaje..." style="height:200px"></textarea>
 
-    <p><input type="Entregar" value="Entregar"></p>
-
+    <input type="submit" value="Entregar">
   </form>
 </div>
 </body>
