@@ -158,7 +158,9 @@
   </div>
 
   <div class="main-content">
+  <section id="top_section">
     <h4>Hecho por Dominic Scott, Julio Bolaños, Mauricio Chin</h4>
+    </section>
     <p>El objetivo principal de esta página web es brindar apoyo y orientación a jóvenes que deseen acceder a becas en universidades en el extranjero o aquí en Guatemala.</p>
 
     <section id="home_section">
@@ -212,7 +214,7 @@
 
   <div class="myDiv">
   <h3 style="color: white; margin-bottom: 20px;">Contáctanos para más información</h3>
-  <form action="index.md#top">
+  <form href="#top_section">
     
       <label for="fname">Nombre</label>
       <input type="text" id="fname" name="firstname" placeholder="Tu nombre">
