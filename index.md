@@ -58,7 +58,18 @@ extranjero o aquí en Guatemala. </p>
 <li> Estar preparado/a para tomar el examen GRE en julio de 2025. Los candidatos que no puedan obtener un resultado competitivo arriesgan su admisión a una universidad en Estados Unidos. </li>
 </ul>
 
-<div class="container">
+<style>
+.myDiv {
+  background-color: rgba(53, 127, 209, 1);
+  text-align: center;
+  padding: 20px;
+  border: 3px solid #2c6cb8; 
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2); 
+  border-radius: 4px; 
+}
+</style>
+
+<div class="myDiv">
   <form action="action_page.php">
 
     <p><label for="fname">Nombre</label>
