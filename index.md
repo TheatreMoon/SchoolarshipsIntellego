@@ -5,16 +5,16 @@
 
 </head>
 <body>
+
+  <div id="text">
+            <div id="menu"><a href="#home_section">Requisitos generales</a> &nbsp;|&nbsp; <a href="#app_section">Proceso de aplicación</a> &nbsp;|&nbsp; <a href="#fut_section">Becas por Nuestro Futuro</a> &nbsp;|&nbsp; <a href="#bri_section">Beca fulbright</a> </div>
+</div>
+
   <h1>Becas al Extranjero</h1>
   <h4><i>Hecho por Dominic Scott, Julio Bolaños, Mauricio Chin</i></h4>
 
   <p>El objetivo principal de esta pagina web es brindar apoyo y orientación a jóvenes que deseen acceder a becas en universidades en el
 extranjero o aquí en Guatemala. </p> 
-
-<p><a href="#home_section">Requisitos generales</a></p>
-<p><a href="#app_section">Proceso de aplicación</a></p>
-<p><a href="#fut_section">Becas por Nuestro Futuro</a></p>
-<p><a href="#bri_section">Beca fulbright</a></p>
 
 <section id="home_section"><b>Requisitos generales:</b></section>
 <ul>
