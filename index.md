@@ -1,10 +1,9 @@
+<!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <section id="top_section">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Becas al Extranjero</title>
-  </section>
   <style>
     body {
       margin: 0;
@@ -13,7 +12,15 @@
       color: #333;
     }
 
-    /* Header + Menu Container */
+    #thankYouMsg {
+      display: none;
+      background-color: #dff0d8;
+      color: #3c763d;
+      text-align: center;
+      padding: 15px;
+      font-weight: bold;
+    }
+
     .header-container {
       background-color: rgba(53, 127, 209, 1);
       padding: 30px 20px 10px;
@@ -25,12 +32,14 @@
     .header-container h1 {
       margin: 0;
       font-size: 36px;
+      color: white; /* forced to stay white */
     }
 
     .header-container p {
       margin-top: 5px;
       font-size: 16px;
       font-style: italic;
+      color: white;
     }
 
     #menu {
@@ -91,7 +100,6 @@
       text-decoration: underline;
     }
 
-    /* Form Styles */
     .myDiv {
       background-color: rgba(53, 127, 209, 1);
       text-align: center;
@@ -99,6 +107,11 @@
       margin-top: 60px;
       border-radius: 10px;
       box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+    }
+
+    .myDiv h3 {
+      color: white;
+      margin-bottom: 20px;
     }
 
     .myDiv form {
@@ -142,14 +155,16 @@
     .myDiv input[type="submit"]:hover {
       background-color: #2c6cb8;
     }
-
   </style>
 </head>
 
 <body>
-<a name="top"></a>
+  <div id="top_section"></div>
+
+  <div id="thankYouMsg">¡Gracias! Tu formulario ha sido enviado.</div>
+
   <div class="header-container">
-    <h1 style="color:white;">Becas al Extranjero</h1>
+    <h1>Becas al Extranjero</h1>
     <p>Grupo escolar facilitando información.</p>
     <div id="menu">
       <a href="#home_section">Requisitos generales</a> |
@@ -213,9 +228,8 @@
   </div>
 
   <div class="myDiv">
-  <h3 style="color: white; margin-bottom: 20px;">Contáctanos para más información</h3>
-  <form href="#top_section">
-    
+    <h3>Contáctanos para más información</h3>
+    <form onsubmit="scrollToTop(event)">
       <label for="fname">Nombre</label>
       <input type="text" id="fname" name="firstname" placeholder="Tu nombre">
 
@@ -236,5 +250,21 @@
     </form>
   </div>
 
+  <script>
+    function scrollToTop(event) {
+      event.preventDefault();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+
+      setTimeout(() => {
+        document.getElementById('thankYouMsg').style.display = 'block';
+
+        setTimeout(() => {
+          document.getElementById('thankYouMsg').style.display = 'none';
+        }, 5000);
+
+        event.target.reset();
+      }, 300);
+    }
+  </script>
 </body>
 </html>
