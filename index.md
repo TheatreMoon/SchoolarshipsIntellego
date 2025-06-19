@@ -3,7 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Becas al Extranjero</title>
+  <div class="header-container">
+  <h1>Becas al Extranjero</h1>
+  <p>Grupo escolar facilitando información.</p>
+  <div id="menu">
+    <a href="#home_section">Requisitos generales</a> |
+    <a href="#app_section">Proceso de aplicación</a> |
+    <a href="#fut_section">Becas por Nuestro Futuro</a> |
+    <a href="#bri_section">Beca Fulbright</a>
+  </div>
+</div>
   <style>
     body {
       margin: 0;
